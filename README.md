@@ -8,3 +8,5 @@ Necessary features:
 3. Employee Database
 4. Mathematical calculations
 5. Data storage
+
+5-18-2016: At this time I am determining the best language to use for this project. Right now it is down to C, Python, and Java.
